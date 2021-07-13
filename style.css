@@ -1,0 +1,12 @@
+body{background-color:red ;}
+
+.game-div p:hover{
+	color: black;
+	margin-left: 10px;
+	margin-top:300px;
+	color: blue;
+}
+
+.click-me{
+	text-decoration: none;
+}
